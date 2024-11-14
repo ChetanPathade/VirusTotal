@@ -1,5 +1,3 @@
-import virustotal_python
-import re
 
 hash = input("Enter the hash (MD5 or SHA256): ")
 api = input("Enter the VT API key: ")
