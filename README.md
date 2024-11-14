@@ -12,9 +12,9 @@ You can install the required dependency using pip:
 pip install virustotal-python
 ```
 ###How to Use:
-- **Clone the repository or download the project files.
-- **After installing the required dependencies, navigate to the directory where scan.py is located.
-- **Run the program using the following command:
+- **Clone the repository or download the project files.**
+- **After installing the required dependencies, navigate to the directory where scan.py is located.**
+- **Run the program using the following command:**
 ```bash
 python3 scan.py
 ```
