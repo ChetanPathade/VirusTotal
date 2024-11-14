@@ -18,3 +18,9 @@ pip install virustotal-python
 ```bash
 python3 scan.py
 ```
+### Example Output:
+- For example, if you provide the following hash values for testing:
+```bash
+dd3f8246d9f6dd42424228de4e2de92a3f898ea8ada782e9bc2cc56431a0aaf0
+61abac61ce531e5454d5df48d27a9daa71c46368275549b31b440dd2d6932902
+```
