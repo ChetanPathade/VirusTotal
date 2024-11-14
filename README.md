@@ -11,10 +11,10 @@ pip install virustotal-python
 ```
 ### How to Use:
 - **Clone the repository or download the project files.**
-- **After installing the required dependencies, navigate to the directory where scan.py is located.**
+- **After installing the required dependencies, navigate to the directory where hashscan.py is located.**
 - **Run the program using the following command:**
 ```bash
-python3 scan.py
+python3 hashscan.py
 ```
 ### Example Output:
 - For example, if you provide the following hash values for testing:
